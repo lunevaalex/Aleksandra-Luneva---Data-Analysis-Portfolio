@@ -1,4 +1,4 @@
-# Aleksandra Luneva - Data Analysis Portfolio
+# Alexandra Luneva - Data Analysis Portfolio
 
 About
 
