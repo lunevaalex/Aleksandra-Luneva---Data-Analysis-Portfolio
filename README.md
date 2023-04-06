@@ -1,8 +1,12 @@
-# Alexandra Luneva - Data Analysis Portfolio
-
-About
-
-Hi, I'm Alex! I have background and hold a Master's degree in project management in Asia-Pacific Region. Projects I've managed relate to engineering, manufacturing, logistics and equipment supplies. After 5 years working in the field and building different types of reports I've decided to develop my talents in a field of analytics and creating impact through data.
+Description
 
 I've made this repository to showcase skills, share projects and track my progress in Data Analytics.
 
+Structure
+
+Each project is a separate repository folder.
+There are 2 files in each folder: a notebook with a project and a README with a description of the project.
+
+What technologies are used in the projects
+Languages: Python, SQL.
+Libraries: Pandas, Numpy, Scipy, Matplotlib, Seaborn, Scikit-learn.
